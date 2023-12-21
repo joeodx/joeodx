@@ -6,9 +6,9 @@ A Full Stack Developer.
 
 I am londoner whose journey spans charity, film, stand-up comedy, and now, full-time development. In the charity and film sectors, I dedicated myself to social causes and storytelling, finding joy in the art of stand-up comedy as a unique way to connect with others through laughter. Eager for a new challenge, I delved into the tech world through a 16-week coding bootcamp, immersing myself in languages like React and JavaScript.
 
-The experience transformed my approach to problem-solving, allowing me to merge storytelling, humor, and technical skills. Upon completing the bootcamp, I transitioned into a full-time developer role within this bootcamp and got involved with the bustling tech scene here in loondon, bringing my diverse background to contribute to projects that you can see here on my profile. Excited about the future, I'm weaving my narrative in the dynamic world of technology, infusing a bit of humor and a whole lot of creativity into everyday. 
+The experience transformed my approach to problem-solving, allowing me to merge storytelling, humor, and technical skills. Upon completing the bootcamp, I transitioned into a full-time developer role within this bootcamp and got involved with the bustling tech scene here in loondon, bringing my diverse background to contribute to projects that you can see here on my profile. Excited about the future, I'm weaving my narrative in the dynamic world of technology, infusing a bit of humor and a whole lot of creativity into everyday on this journey. 
 
-The picture was taken when I was crowned king of git branching earlier this year...I promise!
+My picture was taken when I was crowned king of GIT branching earlier this year...I promise!
 
 Let's build something cool together!
 
