@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph O'Donovan...
 ===========================================================================================================================================
 
-A Full Stack Developer.
+A Junior Full Stack Developer.
 -----------------------
 
 I am londoner whose journey spans charity, film, stand-up comedy, and now, full-time development. In the charity and film sectors, I dedicated myself to social causes and storytelling, finding joy in the art of stand-up comedy as a unique way to connect with others through laughter. Eager for a new challenge, I delved into the tech world through a 16-week coding bootcamp, immersing myself in languages like React and JavaScript.
